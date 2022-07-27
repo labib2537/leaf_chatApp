@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730489325265",
+    "project_id": "leaf-95c0e",
+    "storage_bucket": "leaf-95c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730489325265:android:9c9e491cb5f42e2439e7f0",
+        "android_client_info": {
+          "package_name": "com.example.leaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730489325265-1gc9r5fucjsmq0dckfr170n3osres069.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leaf",
+            "certificate_hash": "483e9625ee758345ad25f838ae258b9e358e2b98"
+          }
+        },
+        {
+          "client_id": "730489325265-ho2vjapub22dngeo726doctr8u5j98nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGCw03IKa9VI22MmAE2K5x3pZZe4fqDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730489325265-ho2vjapub22dngeo726doctr8u5j98nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
